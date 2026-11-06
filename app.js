@@ -189,7 +189,7 @@
       n.innerHTML = "<span><b>How it works:</b> tap a button, the share menu opens with the picture ready, tap the app, paste, post. The tick appears by itself.</span>" +
         (standalone ? "" : "<span><b>Put it on your home screen:</b> " + (isIOS ? "tap Share, then Add to Home Screen." : "tap the three dots at the top right, then Add to Home screen.") + "</span>") +
         (LINK_NOTE ? "<span><b>Once:</b> put " + esc(LINK_NOTE) + " in your Instagram and TikTok bio.</span>" : "") +
-        "<span><b>Carousels:</b> posts with several slides attach them all, in order, with one tap.</span>" +
+        "<span><b>Twice a day:</b> the morning picture from here, then the evening reel from Perkins Reels. The evening picture here is an extra.</span>" +
         '<button class="x" type="button">Got it</button>';
       n.querySelector(".x").addEventListener("click", function () { try { localStorage.setItem(NKEY, "1"); } catch (e) {} n.remove(); });
       main.appendChild(n);

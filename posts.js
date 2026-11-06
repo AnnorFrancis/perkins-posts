@@ -59,7 +59,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "She got tired of hearing \"next month\".\nGo before she stops hoping.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "She got tired of hearing \"next month\".\nGo before she stops hoping.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "She got tired of hearing \"next month\".\nGo before she stops hoping.",
 "tiktok": "She got tired of hearing \"next month\".\nGo before she stops hoping.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "She got tired of hearing \"next month\".\nGo before she stops hoping.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "She got tired of hearing \"next month\"."
@@ -123,7 +123,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "There's no quiet month coming.\nWhatever you're waiting to start, it has to happen in the noise.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "There's no quiet month coming.\nWhatever you're waiting to start, it has to happen in the noise.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "There's no quiet month coming.\nWhatever you're waiting to start, it has to happen in the noise.",
 "tiktok": "There's no quiet month coming.\nWhatever you're waiting to start, it has to happen in the noise.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "There's no quiet month coming.\nWhatever you're waiting to start, it has to happen in the noise.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "There's no quiet month coming."
@@ -187,7 +187,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "You're not confused about him.\nYou're just not ready to say it.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "You're not confused about him.\nYou're just not ready to say it.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "You're not confused about him.\nYou're just not ready to say it.",
 "tiktok": "You're not confused about him.\nYou're just not ready to say it.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "You're not confused about him.\nYou're just not ready to say it.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "You're not confused about him."
@@ -251,7 +251,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Helping your family is good.\nDisappearing while you do it isn't.\nTell someone you're tired.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Helping your family is good.\nDisappearing while you do it isn't.\nTell someone you're tired.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Helping your family is good.\nDisappearing while you do it isn't.\nTell someone you're tired.",
 "tiktok": "Helping your family is good.\nDisappearing while you do it isn't.\nTell someone you're tired.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Helping your family is good.\nDisappearing while you do it isn't.\nTell someone you're tired.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Helping your family is good."
@@ -315,7 +315,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Ask his friends what he says about you.\nThen call him.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Ask his friends what he says about you.\nThen call him.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Ask his friends what he says about you.\nThen call him.",
 "tiktok": "Ask his friends what he says about you.\nThen call him.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Ask his friends what he says about you.\nThen call him.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Ask his friends what he says about you."
@@ -379,7 +379,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "They've moved on. They sleep well.\nYou're the only one still in that room.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "They've moved on. They sleep well.\nYou're the only one still in that room.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "They've moved on. They sleep well.\nYou're the only one still in that room.",
 "tiktok": "They've moved on. They sleep well.\nYou're the only one still in that room.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "They've moved on. They sleep well.\nYou're the only one still in that room.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "They've moved on. They sleep well."
@@ -443,7 +443,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "She has bills and she got up.\nThe motivation came later, or it didn't. She was still there.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "She has bills and she got up.\nThe motivation came later, or it didn't. She was still there.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "She has bills and she got up.\nThe motivation came later, or it didn't. She was still there.",
 "tiktok": "She has bills and she got up.\nThe motivation came later, or it didn't. She was still there.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "She has bills and she got up.\nThe motivation came later, or it didn't. She was still there.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "She has bills and she got up."
@@ -507,7 +507,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Smile. Greet them well.\nThen take your time and choose properly.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Smile. Greet them well.\nThen take your time and choose properly.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Smile. Greet them well.\nThen take your time and choose properly.",
 "tiktok": "Smile. Greet them well.\nThen take your time and choose properly.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Smile. Greet them well.\nThen take your time and choose properly.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Smile. Greet them well."
@@ -571,7 +571,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "It's okay. It takes time.\nBut stop lying to yourself about it.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "It's okay. It takes time.\nBut stop lying to yourself about it.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "It's okay. It takes time.\nBut stop lying to yourself about it.",
 "tiktok": "It's okay. It takes time.\nBut stop lying to yourself about it.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "It's okay. It takes time.\nBut stop lying to yourself about it.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "It's okay. It takes time."
@@ -635,7 +635,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Check it. Settings, then Screen Time. Go on.\nThat's your course, your side work, your gym.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Check it. Settings, then Screen Time. Go on.\nThat's your course, your side work, your gym.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Check it. Settings, then Screen Time. Go on.\nThat's your course, your side work, your gym.",
 "tiktok": "Check it. Settings, then Screen Time. Go on.\nThat's your course, your side work, your gym.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Check it. Settings, then Screen Time. Go on.\nThat's your course, your side work, your gym.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Check it. Settings, then Screen Time. Go on."
@@ -699,7 +699,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Nobody did anything wrong.\nIf you miss them, you can still be the one who calls.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Nobody did anything wrong.\nIf you miss them, you can still be the one who calls.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Nobody did anything wrong.\nIf you miss them, you can still be the one who calls.",
 "tiktok": "Nobody did anything wrong.\nIf you miss them, you can still be the one who calls.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Nobody did anything wrong.\nIf you miss them, you can still be the one who calls.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Nobody did anything wrong."
@@ -763,7 +763,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "They'll forget the outfit by Monday.\nYou'll still be owing for it in March.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "They'll forget the outfit by Monday.\nYou'll still be owing for it in March.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "They'll forget the outfit by Monday.\nYou'll still be owing for it in March.",
 "tiktok": "They'll forget the outfit by Monday.\nYou'll still be owing for it in March.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "They'll forget the outfit by Monday.\nYou'll still be owing for it in March.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "They'll forget the outfit by Monday."
@@ -827,7 +827,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "\"I'm sorry, but you also...\" is not sorry.\nSay the first part. Stop there.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "\"I'm sorry, but you also...\" is not sorry.\nSay the first part. Stop there.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "\"I'm sorry, but you also...\" is not sorry.\nSay the first part. Stop there.",
 "tiktok": "\"I'm sorry, but you also...\" is not sorry.\nSay the first part. Stop there.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "\"I'm sorry, but you also...\" is not sorry.\nSay the first part. Stop there.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "\"I'm sorry, but you also...\" is not sorry."
@@ -891,7 +891,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "We laugh, but you know it's true.\nSet the alarm. Then actually get up.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "We laugh, but you know it's true.\nSet the alarm. Then actually get up.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "We laugh, but you know it's true.\nSet the alarm. Then actually get up.",
 "tiktok": "We laugh, but you know it's true.\nSet the alarm. Then actually get up.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "We laugh, but you know it's true.\nSet the alarm. Then actually get up.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "We laugh, but you know it's true."
@@ -955,7 +955,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "People fight for what they still hope to fix.\nWhen the quiet comes, pay attention.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "People fight for what they still hope to fix.\nWhen the quiet comes, pay attention.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "People fight for what they still hope to fix.\nWhen the quiet comes, pay attention.",
 "tiktok": "People fight for what they still hope to fix.\nWhen the quiet comes, pay attention.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "People fight for what they still hope to fix.\nWhen the quiet comes, pay attention.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "People fight for what they still hope to fix."
@@ -1019,7 +1019,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "That thing you've been ignoring for months.\nBook it. Fear doesn't cure anything.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "That thing you've been ignoring for months.\nBook it. Fear doesn't cure anything.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "That thing you've been ignoring for months.\nBook it. Fear doesn't cure anything.",
 "tiktok": "That thing you've been ignoring for months.\nBook it. Fear doesn't cure anything.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "That thing you've been ignoring for months.\nBook it. Fear doesn't cure anything.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "That thing you've been ignoring for months."
@@ -1083,7 +1083,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "If the answer is nobody, that's the problem.\nPick one person. Tell them one true thing.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "If the answer is nobody, that's the problem.\nPick one person. Tell them one true thing.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "If the answer is nobody, that's the problem.\nPick one person. Tell them one true thing.",
 "tiktok": "If the answer is nobody, that's the problem.\nPick one person. Tell them one true thing.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "If the answer is nobody, that's the problem.\nPick one person. Tell them one true thing.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "If the answer is nobody, that's the problem."
@@ -1147,7 +1147,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Open the statement tonight. Read all of it.\nYou can't fix what you won't look at.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Open the statement tonight. Read all of it.\nYou can't fix what you won't look at.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Open the statement tonight. Read all of it.\nYou can't fix what you won't look at.",
 "tiktok": "Open the statement tonight. Read all of it.\nYou can't fix what you won't look at.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Open the statement tonight. Read all of it.\nYou can't fix what you won't look at.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Open the statement tonight. Read all of it."
@@ -1211,7 +1211,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "God can open the door.\nYou still have to fill the form.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "God can open the door.\nYou still have to fill the form.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "God can open the door.\nYou still have to fill the form.",
 "tiktok": "God can open the door.\nYou still have to fill the form.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "God can open the door.\nYou still have to fill the form.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "God can open the door."
@@ -1275,7 +1275,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Record it on your phone.\nYou'll want that voice more than any photo.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Record it on your phone.\nYou'll want that voice more than any photo.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Record it on your phone.\nYou'll want that voice more than any photo.",
 "tiktok": "Record it on your phone.\nYou'll want that voice more than any photo.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Record it on your phone.\nYou'll want that voice more than any photo.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Record it on your phone."
@@ -1339,7 +1339,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Maybe it's fine. Maybe you're happy.\nJust make sure you decided, and it didn't just happen.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Maybe it's fine. Maybe you're happy.\nJust make sure you decided, and it didn't just happen.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Maybe it's fine. Maybe you're happy.\nJust make sure you decided, and it didn't just happen.",
 "tiktok": "Maybe it's fine. Maybe you're happy.\nJust make sure you decided, and it didn't just happen.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Maybe it's fine. Maybe you're happy.\nJust make sure you decided, and it didn't just happen.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Maybe it's fine. Maybe you're happy."
@@ -1403,7 +1403,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "You're comparing your real life to their best day.\nNobody posts the repayment.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "You're comparing your real life to their best day.\nNobody posts the repayment.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "You're comparing your real life to their best day.\nNobody posts the repayment.",
 "tiktok": "You're comparing your real life to their best day.\nNobody posts the repayment.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "You're comparing your real life to their best day.\nNobody posts the repayment.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "You're comparing your real life to their best day."
@@ -1467,7 +1467,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Whatever you're thinking of, you're earlier than you feel.\nStart this week. Badly is fine.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Whatever you're thinking of, you're earlier than you feel.\nStart this week. Badly is fine.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Whatever you're thinking of, you're earlier than you feel.\nStart this week. Badly is fine.",
 "tiktok": "Whatever you're thinking of, you're earlier than you feel.\nStart this week. Badly is fine.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Whatever you're thinking of, you're earlier than you feel.\nStart this week. Badly is fine.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Whatever you're thinking of, you're earlier than you feel."
@@ -1531,7 +1531,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "He's not inspired either.\nThe work gets done by the people who stop asking how they feel.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "He's not inspired either.\nThe work gets done by the people who stop asking how they feel.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "He's not inspired either.\nThe work gets done by the people who stop asking how they feel.",
 "tiktok": "He's not inspired either.\nThe work gets done by the people who stop asking how they feel.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "He's not inspired either.\nThe work gets done by the people who stop asking how they feel.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "He's not inspired either."
@@ -1595,7 +1595,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "If you can't afford to lose it, say no.\nA hard no today beats a cold silence next year.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "If you can't afford to lose it, say no.\nA hard no today beats a cold silence next year.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "If you can't afford to lose it, say no.\nA hard no today beats a cold silence next year.",
 "tiktok": "If you can't afford to lose it, say no.\nA hard no today beats a cold silence next year.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "If you can't afford to lose it, say no.\nA hard no today beats a cold silence next year.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "If you can't afford to lose it, say no."
@@ -1659,7 +1659,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "They'll never tell you what it cost.\nAsk gently, and listen to what they don't say.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "They'll never tell you what it cost.\nAsk gently, and listen to what they don't say.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "They'll never tell you what it cost.\nAsk gently, and listen to what they don't say.",
 "tiktok": "They'll never tell you what it cost.\nAsk gently, and listen to what they don't say.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "They'll never tell you what it cost.\nAsk gently, and listen to what they don't say.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "They'll never tell you what it cost."
@@ -1723,7 +1723,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Missing them doesn't mean you were wrong to leave.\nBoth are true. Let them be.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Missing them doesn't mean you were wrong to leave.\nBoth are true. Let them be.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Missing them doesn't mean you were wrong to leave.\nBoth are true. Let them be.",
 "tiktok": "Missing them doesn't mean you were wrong to leave.\nBoth are true. Let them be.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Missing them doesn't mean you were wrong to leave.\nBoth are true. Let them be.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Missing them doesn't mean you were wrong to leave."
@@ -1787,7 +1787,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "At 1 a.m. you only remember the good parts.\nThat's loneliness talking, not love.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "At 1 a.m. you only remember the good parts.\nThat's loneliness talking, not love.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "At 1 a.m. you only remember the good parts.\nThat's loneliness talking, not love.",
 "tiktok": "At 1 a.m. you only remember the good parts.\nThat's loneliness talking, not love.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "At 1 a.m. you only remember the good parts.\nThat's loneliness talking, not love.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "At 1 a.m. you only remember the good parts."
@@ -1851,7 +1851,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Someone bent over in the sun for every plate you complained about.\nToday, say thank you and mean it.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Someone bent over in the sun for every plate you complained about.\nToday, say thank you and mean it.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Someone bent over in the sun for every plate you complained about.\nToday, say thank you and mean it.",
 "tiktok": "Someone bent over in the sun for every plate you complained about.\nToday, say thank you and mean it.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Someone bent over in the sun for every plate you complained about.\nToday, say thank you and mean it.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Someone bent over in the sun for every plate you complained about."
@@ -1915,7 +1915,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "No app. No podcast. Just your feet.\nIt's embarrassing how often it works.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "No app. No podcast. Just your feet.\nIt's embarrassing how often it works.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "No app. No podcast. Just your feet.\nIt's embarrassing how often it works.",
 "tiktok": "No app. No podcast. Just your feet.\nIt's embarrassing how often it works.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "No app. No podcast. Just your feet.\nIt's embarrassing how often it works.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "No app. No podcast. Just your feet."
@@ -1979,7 +1979,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "You don't know what they started with.\nYou were running a different race the whole time.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "You don't know what they started with.\nYou were running a different race the whole time.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "You don't know what they started with.\nYou were running a different race the whole time.",
 "tiktok": "You don't know what they started with.\nYou were running a different race the whole time.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "You don't know what they started with.\nYou were running a different race the whole time.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "You don't know what they started with."
@@ -2043,7 +2043,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Jokes are a good place to hide.\nCheck on him. Ask twice.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Jokes are a good place to hide.\nCheck on him. Ask twice.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Jokes are a good place to hide.\nCheck on him. Ask twice.",
 "tiktok": "Jokes are a good place to hide.\nCheck on him. Ask twice.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Jokes are a good place to hide.\nCheck on him. Ask twice.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Jokes are a good place to hide."
@@ -2107,7 +2107,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Rest won't fix that one.\nA direction will.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Rest won't fix that one.\nA direction will.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Rest won't fix that one.\nA direction will.",
 "tiktok": "Rest won't fix that one.\nA direction will.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Rest won't fix that one.\nA direction will.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Rest won't fix that one."
@@ -2171,7 +2171,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Move it the day you're paid, before you've seen it.\nEven GHS 50. The habit is the point.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Move it the day you're paid, before you've seen it.\nEven GHS 50. The habit is the point.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Move it the day you're paid, before you've seen it.\nEven GHS 50. The habit is the point.",
 "tiktok": "Move it the day you're paid, before you've seen it.\nEven GHS 50. The habit is the point.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Move it the day you're paid, before you've seen it.\nEven GHS 50. The habit is the point.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Move it the day you're paid, before you've seen it."
@@ -2235,7 +2235,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Notice who's making fun of the attempt.\nThen notice what they've attempted.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Notice who's making fun of the attempt.\nThen notice what they've attempted.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Notice who's making fun of the attempt.\nThen notice what they've attempted.",
 "tiktok": "Notice who's making fun of the attempt.\nThen notice what they've attempted.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Notice who's making fun of the attempt.\nThen notice what they've attempted.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Notice who's making fun of the attempt."
@@ -2299,7 +2299,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Leave it in another room for one night.\nSee what you think about instead.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Leave it in another room for one night.\nSee what you think about instead.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Leave it in another room for one night.\nSee what you think about instead.",
 "tiktok": "Leave it in another room for one night.\nSee what you think about instead.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Leave it in another room for one night.\nSee what you think about instead.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Leave it in another room for one night."
@@ -2363,7 +2363,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Those are different problems.\nCall a friend before you call an ex.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Those are different problems.\nCall a friend before you call an ex.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Those are different problems.\nCall a friend before you call an ex.",
 "tiktok": "Those are different problems.\nCall a friend before you call an ex.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Those are different problems.\nCall a friend before you call an ex.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Those are different problems."
@@ -2427,7 +2427,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "She'd never tell you.\nYou can still do something with what it bought.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "She'd never tell you.\nYou can still do something with what it bought.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "She'd never tell you.\nYou can still do something with what it bought.",
 "tiktok": "She'd never tell you.\nYou can still do something with what it bought.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "She'd never tell you.\nYou can still do something with what it bought.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "She'd never tell you."
@@ -2491,7 +2491,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Tell fewer people.\nLet the results do the announcing.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Tell fewer people.\nLet the results do the announcing.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Tell fewer people.\nLet the results do the announcing.",
 "tiktok": "Tell fewer people.\nLet the results do the announcing.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Tell fewer people.\nLet the results do the announcing.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Tell fewer people."
@@ -2555,7 +2555,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "That chest pain. That cough. That sadness you can't name.\nTell someone. It isn't weakness. It's maintenance.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "That chest pain. That cough. That sadness you can't name.\nTell someone. It isn't weakness. It's maintenance.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "That chest pain. That cough. That sadness you can't name.\nTell someone. It isn't weakness. It's maintenance.",
 "tiktok": "That chest pain. That cough. That sadness you can't name.\nTell someone. It isn't weakness. It's maintenance.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "That chest pain. That cough. That sadness you can't name.\nTell someone. It isn't weakness. It's maintenance.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "That chest pain. That cough. That sadness you can't name."
@@ -2619,7 +2619,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "The school play. The football match. The bad days.\nBeing there is the gift.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "The school play. The football match. The bad days.\nBeing there is the gift.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "The school play. The football match. The bad days.\nBeing there is the gift.",
 "tiktok": "The school play. The football match. The bad days.\nBeing there is the gift.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "The school play. The football match. The bad days.\nBeing there is the gift.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "The school play. The football match. The bad days."
@@ -2683,7 +2683,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Every yes to them is a no to something of yours.\nStart small. It gets easier.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Every yes to them is a no to something of yours.\nStart small. It gets easier.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Every yes to them is a no to something of yours.\nStart small. It gets easier.",
 "tiktok": "Every yes to them is a no to something of yours.\nStart small. It gets easier.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Every yes to them is a no to something of yours.\nStart small. It gets easier.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Every yes to them is a no to something of yours."
@@ -2747,7 +2747,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Rest isn't something you earn after everything's done.\nEverything is never done.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Rest isn't something you earn after everything's done.\nEverything is never done.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Rest isn't something you earn after everything's done.\nEverything is never done.",
 "tiktok": "Rest isn't something you earn after everything's done.\nEverything is never done.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Rest isn't something you earn after everything's done.\nEverything is never done.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Rest isn't something you earn after everything's done."
@@ -2811,7 +2811,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Tomorrow's you is depending on tonight's you.\nPut it down.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Tomorrow's you is depending on tonight's you.\nPut it down.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Tomorrow's you is depending on tonight's you.\nPut it down.",
 "tiktok": "Tomorrow's you is depending on tonight's you.\nPut it down.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Tomorrow's you is depending on tonight's you.\nPut it down.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Tomorrow's you is depending on tonight's you."
@@ -2875,7 +2875,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "It's normal. Real answers are frightening.\nWalk through it scared.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "It's normal. Real answers are frightening.\nWalk through it scared.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "It's normal. Real answers are frightening.\nWalk through it scared.",
 "tiktok": "It's normal. Real answers are frightening.\nWalk through it scared.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "It's normal. Real answers are frightening.\nWalk through it scared.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "It's normal. Real answers are frightening."
@@ -2939,7 +2939,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Most of your wins have no audience.\nCount them anyway.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Most of your wins have no audience.\nCount them anyway.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Most of your wins have no audience.\nCount them anyway.",
 "tiktok": "Most of your wins have no audience.\nCount them anyway.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Most of your wins have no audience.\nCount them anyway.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Most of your wins have no audience."
@@ -3003,7 +3003,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Watch how they act on a boring Tuesday.\nThat's your whole marriage.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Watch how they act on a boring Tuesday.\nThat's your whole marriage.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Watch how they act on a boring Tuesday.\nThat's your whole marriage.",
 "tiktok": "Watch how they act on a boring Tuesday.\nThat's your whole marriage.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Watch how they act on a boring Tuesday.\nThat's your whole marriage.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Watch how they act on a boring Tuesday."
@@ -3067,7 +3067,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "It won't stop.\nThe money was never the only thing holding you back.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "It won't stop.\nThe money was never the only thing holding you back.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "It won't stop.\nThe money was never the only thing holding you back.",
 "tiktok": "It won't stop.\nThe money was never the only thing holding you back.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "It won't stop.\nThe money was never the only thing holding you back.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "It won't stop."
@@ -3131,7 +3131,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "You don't need to arrive with anything to prove.\nShe's just waiting to see your face.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "You don't need to arrive with anything to prove.\nShe's just waiting to see your face.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "You don't need to arrive with anything to prove.\nShe's just waiting to see your face.",
 "tiktok": "You don't need to arrive with anything to prove.\nShe's just waiting to see your face.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "You don't need to arrive with anything to prove.\nShe's just waiting to see your face.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "You don't need to arrive with anything to prove."
@@ -3195,7 +3195,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Put the phone down. Ask the old people questions.\nMerry Christmas.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Put the phone down. Ask the old people questions.\nMerry Christmas.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Put the phone down. Ask the old people questions.\nMerry Christmas.",
 "tiktok": "Put the phone down. Ask the old people questions.\nMerry Christmas.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Put the phone down. Ask the old people questions.\nMerry Christmas.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Put the phone down. Ask the old people questions."
@@ -3259,7 +3259,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "If you lost someone this year, you don't have to be okay this week.\nThinking of you.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "If you lost someone this year, you don't have to be okay this week.\nThinking of you.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "If you lost someone this year, you don't have to be okay this week.\nThinking of you.",
 "tiktok": "If you lost someone this year, you don't have to be okay this week.\nThinking of you.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "If you lost someone this year, you don't have to be okay this week.\nThinking of you.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "If you lost someone this year, you don't have to be okay this week."
@@ -3323,7 +3323,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Next comes \"when's the baby?\"\nLive your own life at your own speed.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Next comes \"when's the baby?\"\nLive your own life at your own speed.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Next comes \"when's the baby?\"\nLive your own life at your own speed.",
 "tiktok": "Next comes \"when's the baby?\"\nLive your own life at your own speed.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Next comes \"when's the baby?\"\nLive your own life at your own speed.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Next comes \"when's the baby?\""
@@ -3387,7 +3387,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Not a broadcast. Not a status.\nA real call, with their name in it.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Not a broadcast. Not a status.\nA real call, with their name in it.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Not a broadcast. Not a status.\nA real call, with their name in it.",
 "tiktok": "Not a broadcast. Not a status.\nA real call, with their name in it.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Not a broadcast. Not a status.\nA real call, with their name in it.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Not a broadcast. Not a status."
@@ -3451,7 +3451,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "That's not a reason to feel bad.\nIt's a reason to pick fewer things this time.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "That's not a reason to feel bad.\nIt's a reason to pick fewer things this time.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "That's not a reason to feel bad.\nIt's a reason to pick fewer things this time.",
 "tiktok": "That's not a reason to feel bad.\nIt's a reason to pick fewer things this time.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "That's not a reason to feel bad.\nIt's a reason to pick fewer things this time.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "That's not a reason to feel bad."
@@ -3515,7 +3515,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Some of it hurt. Some of it taught you.\nGive yourself some credit before the year ends.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Some of it hurt. Some of it taught you.\nGive yourself some credit before the year ends.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Some of it hurt. Some of it taught you.\nGive yourself some credit before the year ends.",
 "tiktok": "Some of it hurt. Some of it taught you.\nGive yourself some credit before the year ends.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Some of it hurt. Some of it taught you.\nGive yourself some credit before the year ends.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Some of it hurt. Some of it taught you."
@@ -3579,7 +3579,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "You're still here. So are many of your people.\nStart there. Happy New Year's Eve.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "You're still here. So are many of your people.\nStart there. Happy New Year's Eve.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "You're still here. So are many of your people.\nStart there. Happy New Year's Eve.",
 "tiktok": "You're still here. So are many of your people.\nStart there. Happy New Year's Eve.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "You're still here. So are many of your people.\nStart there. Happy New Year's Eve.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "You're still here. So are many of your people."
@@ -3643,7 +3643,7 @@ window.POSTS = [
 },
 "cap": {
 "instagram": "Don't carry it into another year.\nSend it. Happy New Year.\n\n#ghana #accra #realtalk #life #perkinscreatives",
-"facebook": "Don't carry it into another year.\nSend it. Happy New Year.\n\nPerkins Creative builds websites and business systems: https://perkins-swart.vercel.app/",
+"facebook": "Don't carry it into another year.\nSend it. Happy New Year.",
 "tiktok": "Don't carry it into another year.\nSend it. Happy New Year.\n\n#ghana #accra #realtalk #life #fyp",
 "whatsapp": "Don't carry it into another year.\nSend it. Happy New Year.\n\nperkins_creatives: https://perkins-swart.vercel.app/",
 "snapchat": "Don't carry it into another year."
